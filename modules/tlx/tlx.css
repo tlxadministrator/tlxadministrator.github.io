@@ -1,0 +1,21 @@
+/* TLX CSS */
+.jqDockLabel {
+border:0px none; 
+padding:0px 4px; 
+margin:17px 0px;
+font-weight:bold; 
+font-size:14px; 
+font-style:italic; 
+white-space:nowrap; 
+color:#000000; 
+background-color:transparent;
+}
+
+.jqDockLabelLink {
+cursor:pointer;
+}
+
+.jqDockLabelImage {
+cursor:default;
+}
+
